@@ -16,7 +16,7 @@ A simple 3d platform game based on Unity3D game engine.
 
 ## Background
 
-This is a very simple 3D platform game made by Unity Engine according to the [Jimmy vegas Unity Tutorials](https://jvunity.weebly.com/).
+This is a very simple 3D platform game made by Unity3D Engine according to the [Jimmy vegas Unity Tutorials](https://jvunity.weebly.com/).
 
 In this game demo, user needs to go from the start position to the end position. User can control the character(Unity Chan in this game) walking and running by pressing (holding) **W, A, S, D** buttons or **arrow** buttons, jumping by pressing **E** button.
 
@@ -35,7 +35,7 @@ I use Unity2019.3.11f1 and JetBrain's Rider IDE for this project under Windows 1
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity2D_A-Simple-Notepad-App** folder.
+1. Download this repo, open(or zip and open) the **Unity3D_A-Simple-3D-Platform-Game-Demo** folder.
 
 2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
@@ -43,27 +43,35 @@ I use Unity2019.3.11f1 and JetBrain's Rider IDE for this project under Windows 1
 
 4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file).
 
-5. For this game, just select the **Unity2D_A-Simple-Notepad-App** folder and open this project.
+5. For this game, just select the **Unity3D_A-Simple-3D-Platform-Game-Demo** folder and open this project.
 
 ## Structure
 
 The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.
 
-Under **Assets** folder, there are altogether **7** subfolders:
+Under **Assets** folder, there are altogether **11** subfolders:
 
-1. Animation folder: contains **1** animation which will play after the user clicks the **save button**.
+1. Animation folder: contains **8** animations we will use in this game including **fade in / out**, **platform movement** and so on.
 
-2. Audio folder: contains **1** sound files(clear sound) which will play after the user clicks the **clear button**.
+2. Audio folder: contains **6** sound files we will use in this game including **Main Menu BGM**, **Click sound**, **Pause Game sound** and so on.
 
-3. **FarlandSkies folder**: Download from **Unity Assets Store**. Contains assets we will use as background in this App.
+3. Fonts folder: contains **1** font we will use in this game(**Good Times** font).
 
-4. Fonts folder: contains **1** font we will use in this App.
+4. Materials folder: contains **11** materials we will use in this game including **Floor material**, **Gem material**, **Finish Game material** and so on.
 
-5. Scences folder: contains **2** scenes, one for **intro scene**, the other one for the **main scene** of the App.
+5. Objects folder: contains gem objects we will use in this game, there are also several sub folders(prefabs, gems and models) under this folder.
 
-6. Scripts folder: contains all **3** customized C# scripts we need in this App. 
+6. Prefabs folder: contains **3** prefabs we will use in this game including **DoubleBaseBlock** and so on.
 
-7. Textures folder: including textures for the **close icon**, **buttons** and the **small App icon**.
+7. Scences folder: contains **5** scenes, including **Main Menu Scene**, **Level 001**, **Credits** and so on.
+
+8. Scripts folder: contains all **16** customized C# scripts we need in this game demo. 
+
+9. SkyBox folder: contains skyboxes we need in this game demo. Download from the Unity Asset Store, you can download them [here](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-volume-2-nebula-3392).
+
+10. Textures folder: contains **8** textures, including **Floor texture**, **StartFinish texture** and so on.
+
+11. Unity-chan! folder: contains the character we need in this game demo. Download from the Unity Asset Store, you can download them [here](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705).
 
 ## Maintainers
 
