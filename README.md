@@ -26,6 +26,14 @@ When the player goes to the end position successfully, total earned score is dis
 
 ## Exhibition
 
+![level001Win](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Succeed.gif)
+
+![level001Fail](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Fail.gif)
+
+![Reset score](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/ResetScore.gif)
+
+![Credits](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Credits.gif)
+
 ## Install
 
 I use Unity2019.3.11f1 and JetBrain's Rider IDE for this project under Windows 10 environment.<br>
