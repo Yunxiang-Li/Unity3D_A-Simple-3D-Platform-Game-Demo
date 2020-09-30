@@ -26,13 +26,13 @@ When the player goes to the end position successfully, total earned score is dis
 
 ## Exhibition
 
-![level001Win](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Succeed.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Succeed.gif"/> </div>
 
-![level001Fail](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Fail.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Level001Fail.gif"/> </div>
 
-![Reset score](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/ResetScore.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/ResetScore.gif"/> </div>
 
-![Credits](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Credits.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/Screenshots%20and%20GIFs/Credits.gif"/> </div>
 
 ## Install
 
