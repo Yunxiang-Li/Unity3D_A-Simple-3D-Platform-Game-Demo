@@ -13,7 +13,7 @@ A simple 3d platform game based on Unity3D game engine.
 - [Structure](#Structure)
 - [Maintainers](#Maintainers)
 - [License](#license)
-a
+
 ## Background
 
 This is a very simple 3D platform game made by Unity3D Engine according to the [Jimmy vegas Unity Tutorials](https://jvunity.weebly.com/).
