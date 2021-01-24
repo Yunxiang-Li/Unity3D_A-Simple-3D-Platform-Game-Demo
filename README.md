@@ -16,7 +16,7 @@ A simple 3d platform game based on Unity3D game engine.
 
 ## Background
 
-This is a very simple 3D platform game made by Unity3D Engine according to the [Jimmy vegas Unity Tutorials](https://jvunity.weebly.com/).
+This is a very simple 3D platform game demo made by Unity3D Engine according to the [Jimmy vegas Unity Tutorials](https://jvunity.weebly.com/).
 
 In this game demo, user needs to go from the start position to the end position. User can control the character(Unity Chan in this game) walking and running by pressing (holding) **W, A, S, D** buttons or **arrow** buttons, jumping by pressing **E** button.
 
