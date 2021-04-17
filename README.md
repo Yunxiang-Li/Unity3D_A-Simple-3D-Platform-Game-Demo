@@ -43,13 +43,13 @@ I use Unity2019.3.11f1 and JetBrain's Rider IDE for this project under Windows 1
 
 ## Usage
 
-1. Download this repo, open(or zip and open) the **Unity3D_A-Simple-3D-Platform-Game-Demo** folder.
+1. Download this repo, open(or unzip and open) the **Unity3D_A-Simple-3D-Platform-Game-Demo** folder.
 
 2. Open the **Unity Hub**, from the Home Screen, click **Projects** to view the **Projects** tab.
 
 3. To open an existing Unity Project stored on your computer, click the Project name in the **Projects** tab, or click **Open** to browse your computer for the Project folder.
 
-4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file).
+4. Note that a Unity Project is a collection of files and directories, rather than just one specific Unity Project file. To open a Project, you must select the main Project folder, rather than a specific file.
 
 5. For this game, just select the **Unity3D_A-Simple-3D-Platform-Game-Demo** folder and open this project.
 
