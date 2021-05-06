@@ -87,4 +87,4 @@ Under **Assets** folder, there are altogether **11** subfolders:
 
 ## License
 
-[MIT license](https://github.com/Yunxiang-Li/Unity2D_A-Simple-Notepad-App/blob/master/LICENSE)
+[MIT license](https://github.com/Yunxiang-Li/Unity3D_A-Simple-3D-Platform-Game-Demo/blob/master/LICENSE)
